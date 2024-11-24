@@ -45,9 +45,9 @@ export default function HomePage() {
               <span className="text-rose-900">UPHORIA</span> is gotten from the
               word EUPHORIA which denote a feeling of intense joy, excitement,
               and satisfaction. It&apos;s that exhilarating rush when things are
-              going perfectly, and you're experiencing a peak moment. Often,
-              euphoria is associated with feelings of triumph, discovery, or
-              profound happiness.
+              going perfectly, and you&apos;re experiencing a peak moment.
+              Often, euphoria is associated with feelings of triumph, discovery,
+              or profound happiness.
             </p>
             <p>
               With our well crafted creative features, and innovative integral
