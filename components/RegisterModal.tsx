@@ -40,7 +40,6 @@ const RegisterModal: FC<Props> = ({
           <span className="text-rose-800">Uphoria</span> registration
         </p>
         <Link
-          // href="https://t.me/earnbigonphenom"
           href="/register"
           className="bg-rose-800 rounded-xl text-white px-3 py-2 inline-flex justify-center items-center gap-2 flex-1"
         >
@@ -54,7 +53,7 @@ const RegisterModal: FC<Props> = ({
         </p>
         <div className="flex gap-3 justify-center mt-4 text-sm">
           <Link
-            href="https://t.me/Voicemedia2?text=HELLO+OFFICIAL+I+WANT+TO+PURCHASE+PHENOM+COUPON+CODE"
+            href="#"
             className="flex flex-col items-center gap-2 flex-1 group"
           >
             <Image
@@ -67,7 +66,7 @@ const RegisterModal: FC<Props> = ({
             <p className="group-hover:text-rose-800">Telegram</p>
           </Link>
           <Link
-            href="https://Wa.me/+2348104124886?text=Hello!%20Coach%20I'm%20Ready%20To%20Pay%20For%20Phenom%20Registration%20Fee.%20"
+            href="#"
             className="flex flex-col items-center gap-2 flex-1 group"
           >
             <Image

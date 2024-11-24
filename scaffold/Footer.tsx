@@ -11,13 +11,14 @@ const Footer = ({}) => {
       <Container className="flex flex-col md:flex-row justify-center items-center gap-6 md:justify-between py-7">
         <div className="flex flex-col items-center gap-3 order-2 md:order-1">
           <Link href="#">
-            <Image
+            {/* <Image
               src="/logo.png"
               alt="Uphoria logo"
               width={200}
               height={200}
               className=" w-[7rem]"
-            />
+            /> */}
+            Logo
           </Link>
           <p className="text-sm ">
             All rights reserved @Uphoria {new Date().getFullYear()}
@@ -30,19 +31,12 @@ const Footer = ({}) => {
         <div className="flex flex-col items-center gap-4 order-1 md:order-2">
           <p className="">Connect With Us</p>
           <div className="flex gap-3">
-            <Link
-              href="https://Wa.me/+2348104124886?text=Hello!%20Coach%20I'm%20Ready%20To%20Pay%20For%20Phenom%20Registration%20Fee.%20"
-              target="_blank"
-              className="group"
-            >
+            <Link href="#" target="_blank" className="group">
               <Card className="p-2 !px-2 rounded-full group-hover:bg-rose-800 transition-all duration-150 group-hover:rounded-xl">
                 <FaWhatsapp size={23} />
               </Card>
             </Link>
-            <Link
-              href="https://t.me/Voicemedia2?text=HELLO+OFFICIAL+I+WANT+TO+PURCHASE+PHENOM+COUPON+CODE"
-              className="group"
-            >
+            <Link href="#" className="group">
               <Card className="p-2 !px-2 rounded-full group-hover:bg-rose-800 transition-all duration-150 group-hover:rounded-xl">
                 <FaTelegramPlane size={23} />
               </Card>

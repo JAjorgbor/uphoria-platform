@@ -112,7 +112,7 @@ export default function PrivacyPolicyPage() {
             <span className="text-rose-800">contact@uphoria-platform.ng </span>
             <br />
             Phone:{" "}
-            <a href="tel:+2347076159894" className="text-rose-800">
+            <a href="#" className="text-rose-800">
               +234 707 615 9894
             </a>
           </p>

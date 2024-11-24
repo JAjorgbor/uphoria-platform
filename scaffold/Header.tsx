@@ -12,13 +12,14 @@ const Header = () => {
     <header className=" sticky top-0 bg-stone-950 z-50">
       <Container className="flex justify-between py-2">
         <Link href="/">
-          <Image
+          {/* <Image
             src="/logo.png"
-            alt="Phenom logo"
+            alt="Uphoria logo"
             width={200}
             height={200}
             className=" w-[7rem]"
-          />
+          /> */}
+          Logo
         </Link>
         <button
           onClick={() => setOpenRegisterModal(true)}

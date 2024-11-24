@@ -16,7 +16,7 @@ const RegisterForm = () => {
         <Link href="/">
           <Image
             src="/logo.png"
-            alt="Phenom logo"
+            alt="Uphoria logo"
             width={100}
             height={100}
             className=" w-[7rem]"
@@ -115,10 +115,7 @@ const RegisterForm = () => {
           {step == 2 && (
             <p className="text-center mt-3">
               Don&apos;t have a code?{" "}
-              <Link
-                href="https://Wa.me/+2347010138034?text=Hello!%20PHENOM%20OFFICIAL%20I'M%20READY%20TO%20GET%20REGISTERED%20ON%20PHENOM%20"
-                className="text-rose-800 font-bold "
-              >
+              <Link href="#" className="text-rose-800 font-bold ">
                 Get a Code
               </Link>
             </p>
