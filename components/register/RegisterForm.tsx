@@ -1,9 +1,8 @@
 "use client";
-import Card from "@/components/elements/Card";
 import InputField from "@/components/elements/InputField";
 import Image from "next/image";
 import Link from "next/link";
-import React, { useState } from "react";
+import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { FiArrowLeft, FiArrowRight } from "react-icons/fi";
 

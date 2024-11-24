@@ -2,10 +2,7 @@ import Card from "@/components/elements/Card";
 import Container from "@/components/elements/Container";
 import RegisterModal from "@/components/RegisterModal";
 import Image from "next/image";
-import Link from "next/link";
-import { FaEarthAfrica } from "react-icons/fa6";
-import { FiAward, FiClock, FiInfo } from "react-icons/fi";
-import { RiCoupon3Line } from "react-icons/ri";
+import { FiAward, FiInfo } from "react-icons/fi";
 
 export default function HomePage() {
   return (

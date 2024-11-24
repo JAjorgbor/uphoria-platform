@@ -1,9 +1,8 @@
 "use client";
 import Container from "@/components/elements/Container";
 import RegisterModal from "@/components/RegisterModal";
-import Image from "next/image";
 import Link from "next/link";
-import React, { useState } from "react";
+import { useState } from "react";
 import { FiUserPlus } from "react-icons/fi";
 
 const Header = () => {
