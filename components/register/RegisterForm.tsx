@@ -1,6 +1,6 @@
 "use client";
 import InputField from "@/components/elements/InputField";
-import Image from "next/image";
+// import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
