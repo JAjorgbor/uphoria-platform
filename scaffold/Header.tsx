@@ -1,6 +1,7 @@
 "use client";
 import Container from "@/components/elements/Container";
 import RegisterModal from "@/components/RegisterModal";
+import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { FiUserPlus } from "react-icons/fi";
@@ -11,13 +12,13 @@ const Header = () => {
     <header className=" sticky top-0 bg-stone-950 z-50">
       <Container className="flex justify-between py-2">
         <Link href="/">
-          {/* <Image
+          <Image
             src="/logo.png"
             alt="Uphoria logo"
             width={200}
             height={200}
             className=" w-[7rem]"
-          /> */}
+          />
           Logo
         </Link>
         <button

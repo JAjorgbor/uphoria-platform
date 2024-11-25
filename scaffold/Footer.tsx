@@ -11,13 +11,13 @@ const Footer = ({}) => {
       <Container className="flex flex-col md:flex-row justify-center items-center gap-6 md:justify-between py-7">
         <div className="flex flex-col items-center gap-3 order-2 md:order-1">
           <Link href="#">
-            {/* <Image
+            <Image
               src="/logo.png"
               alt="Uphoria logo"
               width={200}
               height={200}
               className=" w-[7rem]"
-            /> */}
+            />
             Logo
           </Link>
           <p className="text-sm ">

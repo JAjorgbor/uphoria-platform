@@ -1,6 +1,6 @@
 "use client";
 import InputField from "@/components/elements/InputField";
-// import Image from "next/image";
+import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
@@ -13,14 +13,13 @@ const RegisterForm = () => {
     <div className="mt-[20%] p-3 md:w-4/5 mx-auto">
       <div className="flex flex-col gap-3 justify-center items-center">
         <Link href="/">
-          {/* <Image
+          <Image
             src="/logo.png"
             alt="Uphoria logo"
             width={100}
             height={100}
             className=" w-[7rem]"
-          /> */}
-          Logo
+          />
         </Link>
         <h3 className="text-3xl font-bold">Create Account</h3>
         <form className="w-full space-y-4">
