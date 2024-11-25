@@ -19,7 +19,6 @@ const Header = () => {
             height={200}
             className=" w-[7rem]"
           />
-          Logo
         </Link>
         <button
           onClick={() => setOpenRegisterModal(true)}

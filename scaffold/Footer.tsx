@@ -18,7 +18,6 @@ const Footer = ({}) => {
               height={200}
               className=" w-[7rem]"
             />
-            Logo
           </Link>
           <p className="text-sm ">
             All rights reserved @Uphoria {new Date().getFullYear()}
