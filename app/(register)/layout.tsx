@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   },
 
   other: {
-    "google-site-verification": "sqsJwdYR5ZIcNWbO7-ebNMCFDOzPgyn4NnaktgI7rWM",
+    "google-site-verification": "iL15kmHZAjy5LMzOC9TcaC9hB0ubw_xa7ujt9zfcwvA",
   },
   keywords:
     "financial freedom, cryptocurrency mining, passive income, social media monetization, digital learning, advanced earning models, daily rewards, Uphoria platform, uphoria, uphorianet",
