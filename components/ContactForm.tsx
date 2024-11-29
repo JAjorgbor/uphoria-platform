@@ -77,7 +77,7 @@ const ContactForm = () => {
           register={formMethods.register("phoneNumber")}
         />
         <Link
-          href="#"
+          href="https://Wa.me/+2349115003616?text=Hello!%20Coach%20I'm%20Ready%20To%20Pay%20For%20Uphorial%20Registration%20Fee.%20"
           className="bg-transparent border border-rose-800 rounded-xl text-rose-800 px-3 py-2 inline-flex justify-center items-center gap-2 flex-1 transition-colors hover:bg-rose-800 hover:text-white"
         >
           Get Coupon

@@ -30,7 +30,11 @@ const Footer = ({}) => {
         <div className="flex flex-col items-center gap-4 order-1 md:order-2">
           <p className="">Connect With Us</p>
           <div className="flex gap-3">
-            <Link href="#" target="_blank" className="group">
+            <Link
+              href="https://Wa.me/+2349115003616?text=Hello!%20Coach%20I'm%20Ready%20To%20Pay%20For%20Uphorial%20Registration%20Fee.%20"
+              target="_blank"
+              className="group"
+            >
               <Card className="p-2 !px-2 rounded-full group-hover:bg-rose-800 transition-all duration-150 group-hover:rounded-xl">
                 <FaWhatsapp size={23} />
               </Card>

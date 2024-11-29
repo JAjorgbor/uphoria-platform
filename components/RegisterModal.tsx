@@ -66,7 +66,7 @@ const RegisterModal: FC<Props> = ({
             <p className="group-hover:text-rose-800">Telegram</p>
           </Link>
           <Link
-            href="#"
+            href="https://Wa.me/+2349115003616?text=Hello!%20Coach%20I'm%20Ready%20To%20Pay%20For%20Uphorial%20Registration%20Fee.%20"
             className="flex flex-col items-center gap-2 flex-1 group"
           >
             <Image
