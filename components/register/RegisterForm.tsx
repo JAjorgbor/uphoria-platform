@@ -114,7 +114,10 @@ const RegisterForm = () => {
           {step == 2 && (
             <p className="text-center mt-3">
               Don&apos;t have a code?{" "}
-              <Link href="#" className="text-rose-800 font-bold ">
+              <Link
+                href="https://dynamic-link-for-whatsapp-and-telegram-3x9b.vercel.app/whatsApplink"
+                className="text-rose-800 font-bold "
+              >
                 Get a Code
               </Link>
             </p>

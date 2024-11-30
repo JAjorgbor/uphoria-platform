@@ -31,7 +31,7 @@ const Footer = ({}) => {
           <p className="">Connect With Us</p>
           <div className="flex gap-3">
             <Link
-              href="https://Wa.me/+2349115003616?text=Hello!%20Coach%20I'm%20Ready%20To%20Pay%20For%20Uphorial%20Registration%20Fee.%20"
+              href="https://dynamic-link-for-whatsapp-and-telegram-3x9b.vercel.app/whatsApplink"
               target="_blank"
               className="group"
             >
@@ -39,7 +39,10 @@ const Footer = ({}) => {
                 <FaWhatsapp size={23} />
               </Card>
             </Link>
-            <Link href="#" className="group">
+            <Link
+              href="https://dynamic-link-for-whatsapp-and-telegram-3x9b.vercel.app/Telegramlink"
+              className="group"
+            >
               <Card className="p-2 !px-2 rounded-full group-hover:bg-rose-800 transition-all duration-150 group-hover:rounded-xl">
                 <FaTelegramPlane size={23} />
               </Card>

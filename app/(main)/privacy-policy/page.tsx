@@ -100,23 +100,6 @@ export default function PrivacyPolicyPage() {
             posted on this page with a new effective date.
           </p>
         </section>
-
-        <section>
-          <h2 className="text-xl font-semibold mb-2">Contact Us</h2>
-          <p>
-            If you have questions about this Privacy Policy, please contact us
-            at:
-          </p>
-          <p className="mt-2">
-            Email:{" "}
-            <span className="text-rose-800">contact@uphoria-platform.ng </span>
-            <br />
-            Phone:{" "}
-            <a href="#" className="text-rose-800">
-              +234 707 615 9894
-            </a>
-          </p>
-        </section>
       </Card>
     </Container>
   );

@@ -53,12 +53,12 @@ const RegisterModal: FC<Props> = ({
         </p>
         <div className="flex gap-3 justify-center mt-4 text-sm">
           <Link
-            href="#"
+            href="https://dynamic-link-for-whatsapp-and-telegram-3x9b.vercel.app/Telegramlink"
             className="flex flex-col items-center gap-2 flex-1 group"
           >
             <Image
               src="/telegram-logo.png"
-              alt="whatsapp logo"
+              alt="telegram logo"
               height={100}
               width={100}
               className="w-8"
@@ -66,7 +66,7 @@ const RegisterModal: FC<Props> = ({
             <p className="group-hover:text-rose-800">Telegram</p>
           </Link>
           <Link
-            href="https://Wa.me/+2349115003616?text=Hello!%20Coach%20I'm%20Ready%20To%20Pay%20For%20Uphorial%20Registration%20Fee.%20"
+            href="https://dynamic-link-for-whatsapp-and-telegram-3x9b.vercel.app/whatsApplink"
             className="flex flex-col items-center gap-2 flex-1 group"
           >
             <Image
