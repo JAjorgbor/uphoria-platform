@@ -46,11 +46,7 @@ const RegisterModal: FC<Props> = ({
           Register
           <FiExternalLink />
         </Link>
-        <p>
-          It is also important for you to join our verified social handles for
-          more information on how <span className="text-rose-800">Uphoria</span>{" "}
-          works.
-        </p>
+        
         <div className="flex gap-3 justify-center mt-4 text-sm">
           <Link
             href="https://dynamic-link-for-whatsapp-and-telegram-3x9b.vercel.app/Telegramlink"
