@@ -61,19 +61,6 @@ const RegisterModal: FC<Props> = ({
             />
             <p className="group-hover:text-rose-800">Telegram</p>
           </Link>
-          <Link
-            href="https://dynamic-link-for-whatsapp-and-telegram-3x9b.vercel.app/whatsApplink"
-            className="flex flex-col items-center gap-2 flex-1 group"
-          >
-            <Image
-              src="/whatsapp-logo.png"
-              alt="whatsapp logo"
-              height={100}
-              width={100}
-              className="w-8"
-            />
-            <p className="group-hover:text-rose-800">Whatsapp </p>
-          </Link>
         </div>
       </ModalWrapper>
     </>
